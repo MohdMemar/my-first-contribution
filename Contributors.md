@@ -31,6 +31,7 @@
 - [Omveer](https://github.com/narukaz/)
 - [Anashe Gaseller] 
 - [Tojan Naiem](https://github.com/Tojan-Naiem)
+  [Mahdi](https://github.com/mahdi-re-dev) - thanks 
 - [Jordan Pinto](https://github.com/KwakuYostOfficial)
 - [Abdul Basit](https://github.com/abdulawr)
 - [Isholl](https://github.com/isholl)
@@ -42,6 +43,7 @@
 - [Jon Goodwin](https://github.com/Jon-Goodwin)
 - [Shaan Edroos](https://github.com/sh66n)
 - [Jayce Stephens]
+- [Zhou Xiaoqian]
 - [Shreya Nigam](https://github.com/shreya-328) Excited to try !
 - [Aakash Singh](https://github.com/aakashsingh04)
 - [Zahida Hussain]
@@ -3143,3 +3145,4 @@ DanyLeeCS
 - [tdx2] - a software developer
 - [axniks](https://github.com/axniks)
 - [charles] - (https://github.com/charlestran2006) - first contribution!
+- [htyffn] - (https://github.com/htyffn)
